@@ -1,0 +1,4843 @@
+[
+  {
+    "marca": "PERFECTO",
+    "desc": "ABRAZ. PERFECTO INOX. MINI  8-12mm, 20u",
+    "cod_art": "9500",
+    "precio_lista": 2975,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PERFECTO",
+    "desc": "ABRAZ. PERFECTO INOX. MINI 10-16mm, 20u",
+    "cod_art": "9501",
+    "precio_lista": 3070,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PERFECTO",
+    "desc": "ABRAZ. PERFECTO INOX. MINI 12-22mm, 20u",
+    "cod_art": "9502",
+    "precio_lista": 3175,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PERFECTO",
+    "desc": "ABRAZ. PERFECTO INOX.  9MM  8-16mm, 20u",
+    "cod_art": "9510",
+    "precio_lista": 3100,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PERFECTO",
+    "desc": "ABRAZ. PERFECTO INOX.  9MM 12-22mm, 20u",
+    "cod_art": "9511",
+    "precio_lista": 3175,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PERFECTO",
+    "desc": "ABRAZ. PERFECTO INOX.  9MM 16-27mm, 20u",
+    "cod_art": "9512",
+    "precio_lista": 3240,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PERFECTO",
+    "desc": "ABRAZ. PERFECTO INOX.  9MM 23-35mm, 20u",
+    "cod_art": "9513",
+    "precio_lista": 3455,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PERFECTO",
+    "desc": "ABRAZ. PERFECTO INOX.  9MM 32-50mm, 20u",
+    "cod_art": "9515",
+    "precio_lista": 3795,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PERFECTO",
+    "desc": "ABRAZ. PERFECTO INOX.  9MM 40-60mm, 20u",
+    "cod_art": "9516",
+    "precio_lista": 4080,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PERFECTO",
+    "desc": "ABRAZ. PERFECTO INOX.  9MM 50-70mm, 20u",
+    "cod_art": "9517",
+    "precio_lista": 4360,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PERFECTO",
+    "desc": "ABRAZ. PERFECTO INOX.  9MM 70-90mm, 10u",
+    "cod_art": "9518",
+    "precio_lista": 2460,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PERFECTO",
+    "desc": "ABRAZ. PERFECTO INOX.  9MM 80-100mm, 10u",
+    "cod_art": "9519",
+    "precio_lista": 2615,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PNT",
+    "desc": "ACEITE PNT MULTIUSO aceit. 100cc x 6un.",
+    "cod_art": "0150",
+    "precio_lista": 740,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PNT",
+    "desc": "ACEITE PNT MULTIUSO aerosol 250cc ",
+    "cod_art": "0151",
+    "precio_lista": 590,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44869
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ADAPTADOR DE TALADRO SDS A MANDRIL 1/2 X 20",
+    "cod_art": "0523",
+    "precio_lista": 660,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "DAPIE",
+    "desc": "ADHESIVO EN BARRA P/PISTOLA ELECTRICA FINA x kg.",
+    "cod_art": "00476",
+    "precio_lista": 5140,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "DAPIE",
+    "desc": "ADHESIVO EN BARRA P/PISTOLA ELECTRICA GRUE x kg.",
+    "cod_art": "00477",
+    "precio_lista": 5140,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "TENSIL",
+    "desc": "ALAMBRE ESPIRALADO REVESTIDO  30mt",
+    "cod_art": "2713",
+    "precio_lista": 6345,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "TENSIL",
+    "desc": "ALAMBRE P/TENDER REVESTIDO  100mt",
+    "cod_art": "5053",
+    "precio_lista": 5725,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "SIPAR",
+    "desc": "ALAMBRE NEGRO RECOCIDO 16, 1KG",
+    "cod_art": "1150",
+    "precio_lista": 1435,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "SIPAR",
+    "desc": "ALAMBRE GALVANIZADO 16, 1KG",
+    "cod_art": "2718",
+    "precio_lista": 1675,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "COPROSUD",
+    "desc": "ALCOHOL EN GEL, COMBUSTIBLE IDEAL CAMPING",
+    "cod_art": "0095",
+    "precio_lista": 450,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ALICATE BREMEN HAUS C/OBLICUO 5\"",
+    "cod_art": "0521",
+    "precio_lista": 1810,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ALICATE BREMEN HAUS C/OBLICUO 6\"",
+    "cod_art": "0628",
+    "precio_lista": 1970,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ALICATE BREMEN HAUS C/OBLICUO 7\"",
+    "cod_art": "0629",
+    "precio_lista": 2215,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ALICATE BREMEN HAUS C/OBLICUO 8\"",
+    "cod_art": "0630",
+    "precio_lista": 2415,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ALICATE BREMEN HAUS M/CAÑA 6\"",
+    "cod_art": "0631",
+    "precio_lista": 2025,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ALICATE BREMEN HAUS M/CAÑA 8\"",
+    "cod_art": "0632",
+    "precio_lista": 2525,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ALICATE BREMEN HAUS UNIVERSAL 6\"",
+    "cod_art": "0624",
+    "precio_lista": 2330,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ALICATE BREMEN HAUS UNIVERSAL 7\"",
+    "cod_art": "0625",
+    "precio_lista": 2595,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ALICATE BREMEN HAUS UNIVERSAL 8\"",
+    "cod_art": "0626",
+    "precio_lista": 2860,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "HONSHU",
+    "desc": "ALICATE HONSHU SUPER C/OBLICUO 6\"",
+    "cod_art": "9001",
+    "precio_lista": 1195,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44891
+  },
+  {
+    "marca": "HONSHU",
+    "desc": "ALICATE HONSHU SUPER MEDIA CAÑA 6\"",
+    "cod_art": "9011",
+    "precio_lista": 1195,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44891
+  },
+  {
+    "marca": "HONSHU",
+    "desc": "ALICATE HONSHU SUPER UNIVERSAL 6\"",
+    "cod_art": "9007",
+    "precio_lista": 1195,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44891
+  },
+  {
+    "marca": "BROGAS",
+    "desc": "ANAFE BROGAS GAS/ENV. Aprob.Blanco 2 Horn. c/termocupla",
+    "cod_art": "0050",
+    "precio_lista": 27550,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "BROGAS",
+    "desc": "ANAFE BROGAS GAS BUTANO, ENC/ELECTR. C/VALIJA",
+    "cod_art": "1017",
+    "precio_lista": 16395,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "LYR",
+    "desc": "ANTEOJO DE SEGURIDAD LIVIANO TRANSPARENTE",
+    "cod_art": 1982,
+    "precio_lista": 480,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "LYR",
+    "desc": "ANTEOJO DE SEGURIDAD NITRO TRANSPARENTE",
+    "cod_art": "1983",
+    "precio_lista": 490,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "DISTOP",
+    "desc": "ANTIDESLIZ. ADHESIVO PARA BAÑERA,  8 un.",
+    "cod_art": "2095",
+    "precio_lista": 625,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "DISTOP",
+    "desc": "ANTIDESLIZ. ADHESIVO PARA ESCALERA, 10 un.",
+    "cod_art": "2096",
+    "precio_lista": 835,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "ANTIDESLIZ. ADHES. TRANSP. CIRC. 13mm, 6 paq.",
+    "cod_art": "0227",
+    "precio_lista": 1315,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "ANTIDESLIZ. ADHES. TRANSP. CIRC. 17mm, 6 paq.",
+    "cod_art": "0228",
+    "precio_lista": 1315,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "ANTIDESLIZ. ADHES. TRANSP. CIRC. 22mm, 6 paq.",
+    "cod_art": "0229",
+    "precio_lista": 1315,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "ANTIGOLPE T/TOPETINA CIRCULAR,  6paq.",
+    "cod_art": "0211",
+    "precio_lista": 885,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "ANTIGOLPE T/TOPETINA CIRCULAR TRANSP., 6paq.",
+    "cod_art": "0214",
+    "precio_lista": 1315,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "ANTIGOLPE T/TOPETINA RECTANG.,  6paq.",
+    "cod_art": "0212",
+    "precio_lista": 885,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "ANTIGOLPE T/TOPETINA RECTANG. TRANSP., 6paq.",
+    "cod_art": "0213",
+    "precio_lista": 1315,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "LYR",
+    "desc": "ANTIPARRA DE SEGURIDAD SILICONADA",
+    "cod_art": "0511",
+    "precio_lista": 560,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "LYR",
+    "desc": "ANTORCHITA SUPER, 24un.",
+    "cod_art": "4040",
+    "precio_lista": 3520,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "BISON",
+    "desc": "APLICADOR p/CARTUCHO SILICONA BISON AMARILLO",
+    "cod_art": "1357",
+    "precio_lista": 1600,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "BROGAS",
+    "desc": "APLICADOR p/CARTUCHO SILICONA ESQUELETO",
+    "cod_art": "1352",
+    "precio_lista": 1665,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "BROGAS",
+    "desc": "APLICADOR p/CARTUCHO SILICONA  REFORZ. AMARILLO",
+    "cod_art": "1350",
+    "precio_lista": 2540,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "BROGAS",
+    "desc": "APLICADOR p/CARTUCHO SILICONA SUPER REFORZ. ROJO",
+    "cod_art": "1354",
+    "precio_lista": 2560,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "ARCO PORTA SIERRA ROTA EL ABUELO",
+    "cod_art": "5006",
+    "precio_lista": 675,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "TRAMONTINA",
+    "desc": "ARCO PORTA SIERRA ROTA TRAMONTINA",
+    "cod_art": "7672",
+    "precio_lista": 1215,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "BISON",
+    "desc": "ARCO SIERRA C/PISTOLA MANGO NARANJA C/HOJA",
+    "cod_art": "0533",
+    "precio_lista": 1050,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44891
+  },
+  {
+    "marca": "BISON",
+    "desc": "ARCO SIERRA  FIJO  C/HOJA  BISÓN",
+    "cod_art": "0534",
+    "precio_lista": 1030,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44891
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "ARCO SIERRA  FIJO  C/HOJA  EL ABUELO",
+    "cod_art": "5005",
+    "precio_lista": 2115,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "ARCO SIERRA   JR. C/HOJA, 10un.",
+    "cod_art": "6800",
+    "precio_lista": 3755,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "ARCO SIERRA   JR. EL ABUELO c/hoja",
+    "cod_art": "5054",
+    "precio_lista": 680,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "BISON",
+    "desc": "ARCO SIERRA   JR. C/PISTOLA  c/3 hojas",
+    "cod_art": "6801",
+    "precio_lista": 720,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44891
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "ARGOLLA NIQUELADA EL ABUELO 15, 144u",
+    "cod_art": "4901",
+    "precio_lista": 1505,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "ARGOLLA NIQUELADA EL ABUELO 18, 144u",
+    "cod_art": "4902",
+    "precio_lista": 1645,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "ARGOLLA NIQUELADA EL ABUELO 20, 144u",
+    "cod_art": "4903",
+    "precio_lista": 1735,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "ARGOLLA NIQUELADA EL ABUELO 22, 144u",
+    "cod_art": "4904",
+    "precio_lista": 2120,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "ARGOLLA NIQUELADA EL ABUELO 25, 144u",
+    "cod_art": "4905",
+    "precio_lista": 2765,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "ARGOLLA NIQUELADA EL ABUELO 27, 144u",
+    "cod_art": "4906",
+    "precio_lista": 2895,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "ARGOLLA NIQUELADA EL ABUELO 30, 144u",
+    "cod_art": "4907",
+    "precio_lista": 3210,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "COPROSUD",
+    "desc": "AROMAT. FRAGANCIAS VARIAS  C/U.",
+    "cod_art": "0087",
+    "precio_lista": 445,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44793
+  },
+  {
+    "marca": "",
+    "desc": "CELEBRITY, CHICLE, CITRICO, FARENHEIT,",
+    "cod_art": "",
+    "precio_lista": "",
+    "": "",
+    "min_cant_venta": "",
+    "ultimo_cambio_precio": ""
+  },
+  {
+    "marca": "",
+    "desc": "HAPPY BABY, JAZMIN, KONI, LAVANDA,LIMON, MANZANA,",
+    "cod_art": "",
+    "precio_lista": "",
+    "": "",
+    "min_cant_venta": "",
+    "ultimo_cambio_precio": ""
+  },
+  {
+    "marca": "",
+    "desc": "MELON, MISTERIO, NEW STYLE, PAPAYA, POMELO,  ",
+    "cod_art": "",
+    "precio_lista": "",
+    "": "",
+    "min_cant_venta": "",
+    "ultimo_cambio_precio": ""
+  },
+  {
+    "marca": "",
+    "desc": "ROSAS, SOLEADO, TE VERDE, UVA-NARANJA, VAINILLA.",
+    "cod_art": "",
+    "precio_lista": "",
+    "": "",
+    "min_cant_venta": "",
+    "ultimo_cambio_precio": ""
+  },
+  {
+    "marca": "COPROSUD",
+    "desc": "AROMATIZANTE DE AMBIENTE ANALOGICO",
+    "cod_art": "0085",
+    "precio_lista": 1650,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44776
+  },
+  {
+    "marca": "HERNANPLAST",
+    "desc": "BALDE P/ALBAÑIL PLASTICO",
+    "cod_art": "1725",
+    "precio_lista": 505,
+    "": "",
+    "min_cant_venta": 12,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "BOTAFOGO",
+    "desc": "BANCO ESCALERA BOTAFOGO, ALUMINIO 3 ESC./120KG",
+    "cod_art": "0096",
+    "precio_lista": 10305,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "LYR",
+    "desc": "BANDEJA PINTOR DE COLGAR",
+    "cod_art": "1554",
+    "precio_lista": 275,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44862
+  },
+  {
+    "marca": "HUNTER",
+    "desc": "BANDEJA PINTOR DE COLGAR C/ESCURRIDOR",
+    "cod_art": "1556",
+    "precio_lista": 535,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "MULTIMAX",
+    "desc": "BANDEJA PINTOR MINI X 6u",
+    "cod_art": "1553",
+    "precio_lista": 630,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44869
+  },
+  {
+    "marca": "HUNTER",
+    "desc": "BANDEJA PINTOR PLANA",
+    "cod_art": "1555",
+    "precio_lista": 385,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "SABELCORT",
+    "desc": "BARRAL P/BAÑO EXTENSIBLE BLANCO 2,00mt ECONOMICO",
+    "cod_art": "4412",
+    "precio_lista": 1640,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "SABELCORT",
+    "desc": "BARRAL P/BAÑO EXTENSIBLE BLANCO 2,00mt. DE LUJO",
+    "cod_art": "4411",
+    "precio_lista": 2190,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "JACOFER",
+    "desc": "BISAGRA 5005 BRONCEADA  25mm.  24 pares",
+    "cod_art": "1080",
+    "precio_lista": 1400,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "JACOFER",
+    "desc": "BISAGRA 5005 BRONCEADA  38mm.  12 pares",
+    "cod_art": "1081",
+    "precio_lista": 1025,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "JACOFER",
+    "desc": "BISAGRA 5005 BRONCEADA  51mm.  12 pares",
+    "cod_art": "1082",
+    "precio_lista": 1725,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "JACOFER",
+    "desc": "BISAGRA 5005 BRONCEADA  63mm.  12 pares",
+    "cod_art": "1083",
+    "precio_lista": 2235,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "JACOFER",
+    "desc": "BISAGRA 5005 BRONCEADA  76mm.  12 pares",
+    "cod_art": "1084",
+    "precio_lista": 2740,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "JACOFER",
+    "desc": "BISAGRA 5005 BRONCEADA 101mm.  12 pares",
+    "cod_art": "1085",
+    "precio_lista": 4455,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "BOQUILLA MAGNETICA p/PTA. ATORNILL. 1/4\"",
+    "cod_art": "4827",
+    "precio_lista": 435,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "BOQUILLA MAGNETICA p/PTA. ATORNILL. 5/16\"",
+    "cod_art": "4828",
+    "precio_lista": 450,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "BOQUILLA MAGNETICA p/PTA. ATORNILL. 3/8\"",
+    "cod_art": "4829",
+    "precio_lista": 460,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "BOQUILLA MAGNETICA p/PTA. ATORNILL. 7/16\"",
+    "cod_art": "4809",
+    "precio_lista": 490,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "BOQUILLA MAGNETICA p/PTA. ATORNILL. 5/16\" x 5un",
+    "cod_art": "4810",
+    "precio_lista": 1955,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "BOQUILLA MAGNETICA p/PTA. ATORNILL. 3/8\" x 5un",
+    "cod_art": "4811",
+    "precio_lista": 2045,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "BOQUILLA MAGNETICA p/PTA. ATORNILL. 7/16\" x 5un",
+    "cod_art": "4812",
+    "precio_lista": 2425,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "VALMA",
+    "desc": "BOYA UNIVERSAL VALMA",
+    "cod_art": "9420",
+    "precio_lista": 545,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "VALMA",
+    "desc": "BOYA UNIVERSAL MALVAR CON CARGA",
+    "cod_art": 9425,
+    "precio_lista": 835,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "MULTIMAX",
+    "desc": "BROCHE MEDIA SOMBRA,  100u",
+    "cod_art": "1003",
+    "precio_lista": 1760,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44896
+  },
+  {
+    "marca": "DAG",
+    "desc": "BURLETE AUTOADHESIVO 10mm X 10mm x 5mts.",
+    "cod_art": "1251",
+    "precio_lista": 335,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "DAG",
+    "desc": "BURLETE AUTOADHESIVO 15mm X 10mm x 5mts.",
+    "cod_art": "1252",
+    "precio_lista": 430,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "DAG",
+    "desc": "BURLETE AUTOADHESIVO 15mm X 15mm x 5mts.",
+    "cod_art": "1253",
+    "precio_lista": 560,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "DAG",
+    "desc": "BURLETE AUTOADHESIVO 20mm X 10mm x 5mts.",
+    "cod_art": "1255",
+    "precio_lista": 520,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "BUSCAPOLO BREMEN voltaje 100-250 AC, testeado h/1000V",
+    "cod_art": "3876",
+    "precio_lista": 815,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BISON",
+    "desc": "BUSCAPOLO CHINO 170mm x 10un.",
+    "cod_art": "4722",
+    "precio_lista": 2920,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "BUSCAPOLO EL ABUELO BLISTER x 10un.",
+    "cod_art": "5040",
+    "precio_lista": 4750,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "TENSIL",
+    "desc": "CABLE DE ACERO REVESTIDO PVC  # 4  100mts",
+    "cod_art": "2712",
+    "precio_lista": 6305,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "TENSIL",
+    "desc": "CABLE DE ACERO REVESTIDO PVC  # 5  100mts",
+    "cod_art": "2717",
+    "precio_lista": 8310,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "MOISES",
+    "desc": "CABO MADERA BIFERA X 6 UN.",
+    "cod_art": "1367",
+    "precio_lista": 1060,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "MOISES",
+    "desc": "CABO MADERA HACHA 90cm",
+    "cod_art": "1523",
+    "precio_lista": 1025,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44862
+  },
+  {
+    "marca": "MOISES",
+    "desc": "CABO MADERA MAZA 90cm",
+    "cod_art": "1524",
+    "precio_lista": 1075,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44862
+  },
+  {
+    "marca": "MOISES",
+    "desc": "CABO MADERA PALA 70cm, empuñadura metálica",
+    "cod_art": "1526",
+    "precio_lista": 830,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44862
+  },
+  {
+    "marca": "MOISES",
+    "desc": "CABO MADERA PICO 90cm",
+    "cod_art": "1527",
+    "precio_lista": 1440,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44896
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "CADENA A NUDO EL ABUELO #13 x 25MT",
+    "cod_art": "4913",
+    "precio_lista": 8595,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "CADENA A NUDO EL ABUELO #15 x 25MT",
+    "cod_art": "4912",
+    "precio_lista": 8245,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "CADENA A NUDO EL ABUELO #17 x 25MT",
+    "cod_art": "4911",
+    "precio_lista": 7320,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "CADENA A NUDO EL ABUELO #18 x 25MT",
+    "cod_art": "4910",
+    "precio_lista": 7100,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "CADENA ENGANCHE EL ABUELO galvan. x 25MT",
+    "cod_art": "4926",
+    "precio_lista": 6155,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "CADENA ESCALERA EL ABUELO x 10MT",
+    "cod_art": "4928",
+    "precio_lista": 6730,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "BISON",
+    "desc": "CADENA P/MOTO FORRADA 4 X 1200mm, C/CIERRE DIGITAL",
+    "cod_art": "6802",
+    "precio_lista": 2540,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44891
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CAJA HERRAM. C/RUEDAS 3 EN 1, CIERRE METALICO",
+    "cod_art": "0731",
+    "precio_lista": 16000,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "SAO LEOP.",
+    "desc": "CAJA PLAST. REPLAST 12,5 C/GAVETERO Y BANDEJA  CF25        ",
+    "cod_art": "0724",
+    "precio_lista": 1890,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "SAO LEOP.",
+    "desc": "CAJA PLAST. REPLAST 16,0 C/GAVETERO Y BANDEJA  CF27          ",
+    "cod_art": "0727",
+    "precio_lista": 2910,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "SAO LEOP.",
+    "desc": "CAJA PLAST. REPLAST 19,5 C/GAVETERO Y BANDEJA  CF43           ",
+    "cod_art": "0721",
+    "precio_lista": 4575,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "SAO LEOP.",
+    "desc": "CAJA PLAST. P/TALADRO C/GAVETERO 12\"  CF28",
+    "cod_art": "0722",
+    "precio_lista": 2065,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "SAO LEOP.",
+    "desc": "CAJA PLAST. P/TALADRO C/GAVETERO 14\"  CF46",
+    "cod_art": "0723",
+    "precio_lista": 3870,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "K-MILA",
+    "desc": "CALEFON ELECTR. 20lts. RESIST. BRONCE/PLAST. RIGIDO ",
+    "cod_art": "4081",
+    "precio_lista": 3330,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "K-MILA",
+    "desc": "CALEFON ELECTR. REPUESTO RESISTENCIA BRONCE ",
+    "cod_art": "4083",
+    "precio_lista": 1350,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CALENTADOR DE INMERSION MINI PLASTICO X 6u",
+    "cod_art": "4041",
+    "precio_lista": 3500,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CALENTADOR DE INMERSION PARA JARRO",
+    "cod_art": "8940",
+    "precio_lista": 1075,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CALENTADOR DE INMERSION PARA TERMO",
+    "cod_art": "8941",
+    "precio_lista": 1075,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "BROGAS",
+    "desc": "CALENTADOR ENLOZADO P/GARRAFA",
+    "cod_art": "4042",
+    "precio_lista": 2295,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "BISON",
+    "desc": "CALIBRE PLASTICO 150MM",
+    "cod_art": "0800",
+    "precio_lista": 370,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "CANDADO DE ACERO MACIZO P/CORTINA DE COMERCIO",
+    "cod_art": "4790",
+    "precio_lista": 2190,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CANDADO ACERO  WEMBLEY 20mm BL.",
+    "cod_art": "0571",
+    "precio_lista": 640,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CANDADO ACERO  WEMBLEY 25mm BL.",
+    "cod_art": "0572",
+    "precio_lista": 710,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CANDADO ACERO  WEMBLEY 32mm BL.",
+    "cod_art": "0573",
+    "precio_lista": 985,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CANDADO ACERO  WEMBLEY 38mm BL.",
+    "cod_art": "0574",
+    "precio_lista": 1285,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CANDADO ACERO  WEMBLEY 50mm BL.",
+    "cod_art": "0651",
+    "precio_lista": 1990,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CANDADO ACERO  WEMBLEY 63mm BL.",
+    "cod_art": "0652",
+    "precio_lista": 2670,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CANDADO ACERO  WEMBLEY 32mm BL. ARO LARGO",
+    "cod_art": "5479",
+    "precio_lista": 1085,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CANDADO ACERO  WEMBLEY 38mm BL. ARO LARGO",
+    "cod_art": "5480",
+    "precio_lista": 1380,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CANDADO ACERO  WEMBLEY 50mm BL. ARO LARGO",
+    "cod_art": "5481",
+    "precio_lista": 2145,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BISON",
+    "desc": "CANILLA 1/2\" ESFERICA METALICA  PALANCA",
+    "cod_art": "0801",
+    "precio_lista": 1545,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44891
+  },
+  {
+    "marca": "GRIFEPLAST",
+    "desc": "CANILLA 1/2\" PVC ECONOMICA",
+    "cod_art": "9422",
+    "precio_lista": 390,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CAÑA DESTAPACAÑERIA PLASTICA ROLLS  1.5MTS",
+    "cod_art": "6820",
+    "precio_lista": 1245,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CAÑA DESTAPACAÑERIA TERMINAL BOCHA",
+    "cod_art": "6821",
+    "precio_lista": 1805,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CAÑA DESTAPACAÑERIA TERMINAL MANIJA",
+    "cod_art": "6823",
+    "precio_lista": 730,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CAÑA DESTAPACAÑERIA TERMINAL TIRABUZON",
+    "cod_art": "6822",
+    "precio_lista": 870,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "CEMENTO DE CONTACTO FORTEX  81 1 lt.",
+    "cod_art": "9333",
+    "precio_lista": 2220,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "CEMENTO DE CONTACTO FORTEX  81 4 lt.",
+    "cod_art": "9334",
+    "precio_lista": 7865,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "CEMENTO DE CONTACTO FORTEX 101 50cc. Pomo",
+    "cod_art": "9321",
+    "precio_lista": 495,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "CEMENTO DE CONTACTO FORTEX 101 1/8 lt.",
+    "cod_art": "9322",
+    "precio_lista": 660,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "CEMENTO DE CONTACTO FORTEX 101 1/4 lt.",
+    "cod_art": "9323",
+    "precio_lista": 930,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "CEMENTO DE CONTACTO FORTEX 101 1/2 lt.",
+    "cod_art": "9324",
+    "precio_lista": 1500,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "CEMENTO DE CONTACTO FORTEX 101 1 lt.",
+    "cod_art": "9325",
+    "precio_lista": 2670,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "CEMENTO DE CONTACTO FORTEX 101 4 lt.",
+    "cod_art": "9326",
+    "precio_lista": 9485,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "CALABRO",
+    "desc": "CEPILLO DE ALAMBRE  4x19 CON CABO PVC",
+    "cod_art": "1279",
+    "precio_lista": 590,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44858
+  },
+  {
+    "marca": "CALABRO",
+    "desc": "CEPILLO DE ALAMBRE  6x19 SIN CABO PVC",
+    "cod_art": "1280",
+    "precio_lista": 710,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44858
+  },
+  {
+    "marca": "CALABRO",
+    "desc": "CEPILLO DE ALAMBRE  4x19 CURVO BRONCEADO",
+    "cod_art": "0558",
+    "precio_lista": 590,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44858
+  },
+  {
+    "marca": "BISON",
+    "desc": "CEPILLO P/AMOLADORA ANGULAR 2.5\" COPA TRENZADO",
+    "cod_art": "0802",
+    "precio_lista": 1120,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44891
+  },
+  {
+    "marca": "BISON",
+    "desc": "CEPILLO P/AMOLADORA ANGULAR 4\" COPA TRENZADO",
+    "cod_art": "0803",
+    "precio_lista": 1795,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "BISON",
+    "desc": "CEPILLO P/AMOLADORA ANGULAR 4\" TRENZ.",
+    "cod_art": "0539",
+    "precio_lista": 1770,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44891
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CEPILLO P/AMOLADORA ANGULAR 4\" RIZADO",
+    "cod_art": "0541",
+    "precio_lista": 1570,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CEPILLO P/AMOLADORA ANGULAR 4\" TRENZ.",
+    "cod_art": "0540",
+    "precio_lista": 1725,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CEPILLO P/AMOLADORA COPA 2,5\" RIZADO",
+    "cod_art": "0542",
+    "precio_lista": 1240,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CEPILLO P/AMOLADORA COPA 4\" RIZADO",
+    "cod_art": "0543",
+    "precio_lista": 2105,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CEPILLO P/AMOLADORA COPA 4\" TRENZADO",
+    "cod_art": "0544",
+    "precio_lista": 3160,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "PRIVE",
+    "desc": "CERRADURA PRIVE 101",
+    "cod_art": "1287",
+    "precio_lista": 1370,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44858
+  },
+  {
+    "marca": "PRIVE",
+    "desc": "CERRADURA PRIVE 102",
+    "cod_art": "1289",
+    "precio_lista": 1470,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44858
+  },
+  {
+    "marca": "PRIVE",
+    "desc": "CERRADURA PRIVE 200",
+    "cod_art": "1296",
+    "precio_lista": 3365,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44858
+  },
+  {
+    "marca": "POLITEN",
+    "desc": "CHANGUITO P/COMPRAS C/BOTELLERO",
+    "cod_art": "3342",
+    "precio_lista": 9015,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44890
+  },
+  {
+    "marca": "POLITEN",
+    "desc": "CHANGUITO P/COMPRAS C/BOTELLERO DOBLE",
+    "cod_art": "3343",
+    "precio_lista": 9735,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44890
+  },
+  {
+    "marca": "POLITEN",
+    "desc": "CHANGUITO P/COMPRAS CANADIENSE C/BOTELLERO",
+    "cod_art": "3344",
+    "precio_lista": 12210,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44890
+  },
+  {
+    "marca": "VALMA",
+    "desc": "CHUPETE DE GOMA P/CANILLA DE 1/2 X 10 UN",
+    "cod_art": "9426",
+    "precio_lista": 1800,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "CIERRE P/MUEBLE MAGNETICO ARRIMAR X 10 UN",
+    "cod_art": "9805",
+    "precio_lista": 990,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "CIERRE P/MUEBLE VAIVEN A RODILLO X 10 UN.",
+    "cod_art": "9806",
+    "precio_lista": 1060,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CINCEL SDS PLUS BREMEN CORTAHIERRO 250 mm",
+    "cod_art": "0471",
+    "precio_lista": 1060,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CINCEL SDS PLUS BREMEN CORTAHIERRO 400 mm",
+    "cod_art": "0469",
+    "precio_lista": 1445,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CINCEL SDS PLUS BREMEN PUNTA 250 mm",
+    "cod_art": "0470",
+    "precio_lista": 1020,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "DOBLE A",
+    "desc": "CINTA AISLADORA PVC X 10 MTS. NEGRA X 10 UN.",
+    "cod_art": "9705",
+    "precio_lista": 2080,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "DELMAR",
+    "desc": "CINTA DE EMBALAR 48mm /  50 TRANSPARENTE",
+    "cod_art": "2309",
+    "precio_lista": 240,
+    "": "",
+    "min_cant_venta": 6,
+    "ultimo_cambio_precio": 44908
+  },
+  {
+    "marca": "DELMAR",
+    "desc": "CINTA DE EMBALAR 48mm /  50 MARRON",
+    "cod_art": "2265",
+    "precio_lista": 240,
+    "": "",
+    "min_cant_venta": 6,
+    "ultimo_cambio_precio": 44908
+  },
+  {
+    "marca": "DELMAR",
+    "desc": "CINTA DE EMBALAR 48mm / 100 TRANSPARENTE",
+    "cod_art": "2310",
+    "precio_lista": 470,
+    "": "",
+    "min_cant_venta": 6,
+    "ultimo_cambio_precio": 44908
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "CINTA DE MONTAJE SC ZINCADA 10mts.",
+    "cod_art": "7121",
+    "precio_lista": 2660,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "STIKO",
+    "desc": "CINTA DE PAPEL USO GENERAL 18mm x 50",
+    "cod_art": "2240",
+    "precio_lista": 395,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44908
+  },
+  {
+    "marca": "STIKO",
+    "desc": "CINTA DE PAPEL USO GENERAL 24mm x 50",
+    "cod_art": "2241",
+    "precio_lista": 520,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44908
+  },
+  {
+    "marca": "STIKO",
+    "desc": "CINTA DE PAPEL USO GENERAL 36mm x 50",
+    "cod_art": "2242",
+    "precio_lista": 785,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44908
+  },
+  {
+    "marca": "STIKO",
+    "desc": "CINTA DE PAPEL USO GENERAL 48mm x 50",
+    "cod_art": "2243",
+    "precio_lista": 1045,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44908
+  },
+  {
+    "marca": "DOBLE A",
+    "desc": "CINTA DE PAPEL OBRA AZUL AA 18mm x 40mts",
+    "cod_art": "2420",
+    "precio_lista": 510,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "DOBLE A",
+    "desc": "CINTA DE PAPEL OBRA AZUL AA 24mm x 40mts",
+    "cod_art": "2421",
+    "precio_lista": 675,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "DOBLE A",
+    "desc": "CINTA DE PAPEL OBRA AZUL AA 36mm x 40mts",
+    "cod_art": "2422",
+    "precio_lista": 1010,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "DOBLE A",
+    "desc": "CINTA DE PAPEL OBRA AZUL AA 48mm x 40mts",
+    "cod_art": "2423",
+    "precio_lista": 1350,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "LIBECO",
+    "desc": "CINTA DE PELIGRO, 8cm x 100mts",
+    "cod_art": "0119",
+    "precio_lista": 550,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "",
+    "desc": "",
+    "cod_art": "",
+    "precio_lista": "",
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": ""
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "CINTA DESTAPA CAÑERIA EL ABUELO  5m ACERO",
+    "cod_art": "5017",
+    "precio_lista": 2765,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "CINTA DESTAPA CAÑERIA EL ABUELO 10m ACERO",
+    "cod_art": "5018",
+    "precio_lista": 4430,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "CINTA DESTAPA CAÑERIA EL ABUELO 15m ACERO",
+    "cod_art": "5019",
+    "precio_lista": 6235,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "CINTA DESTAPA CAÑERIA EL ABUELO 20m ACERO",
+    "cod_art": "5020",
+    "precio_lista": 7810,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CINTA DESTAPA PILETA ALIGAS  5m PLASTICA",
+    "cod_art": "4020",
+    "precio_lista": 885,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CINTA DESTAPA PILETA ALIGAS 10m PLASTICA",
+    "cod_art": "4021",
+    "precio_lista": 1315,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "BISON",
+    "desc": "CINTA DESTAPA PILETA  BISON  5m ACERO",
+    "cod_art": "0535",
+    "precio_lista": 1140,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "CINTA DESTAPA PILETA EL ABUELO  5m ACERO",
+    "cod_art": "5023",
+    "precio_lista": 1475,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "CINTA DESTAPA PILETA EL ABUELO 10m ACERO",
+    "cod_art": "5024",
+    "precio_lista": 1920,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "BISON",
+    "desc": "CINTA DOBLE FAZ 18mm.  BLISTER",
+    "cod_art": "0531",
+    "precio_lista": 390,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "BISON",
+    "desc": "CINTA DOBLE FAZ 18mm.  BLISTER",
+    "cod_art": "0530",
+    "precio_lista": 390,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "UNITAPE",
+    "desc": "CINTA DUCT TAPE AMARILLA",
+    "cod_art": "9714",
+    "precio_lista": 780,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "UNITAPE",
+    "desc": "CINTA DUCT TAPE AZUL",
+    "cod_art": "9715",
+    "precio_lista": 780,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "UNITAPE",
+    "desc": "CINTA DUCT TAPE BLANCA",
+    "cod_art": "9711",
+    "precio_lista": 780,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "UNITAPE",
+    "desc": "CINTA DUCT TAPE GRIS",
+    "cod_art": "9709",
+    "precio_lista": 780,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "UNITAPE",
+    "desc": "CINTA DUCT TAPE NEGRA",
+    "cod_art": "9710",
+    "precio_lista": 700,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "BISON",
+    "desc": "CINTA ELASTICA ANCHA CON 2 GANCHOS",
+    "cod_art": "6803",
+    "precio_lista": 715,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "LYR",
+    "desc": "CINTA METRICA HC PREMIUM 3 FRENOS  3m",
+    "cod_art": "0116",
+    "precio_lista": 795,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "LYR",
+    "desc": "CINTA METRICA HC PREMIUM 3 FRENOS  5m",
+    "cod_art": "0117",
+    "precio_lista": 1025,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "LYR",
+    "desc": "CINTA METRICA HC PREMIUM 3 FRENOS  7.5m",
+    "cod_art": "0118",
+    "precio_lista": 1980,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CINTA PASACABLE PLASTICA ALIGAS  5m",
+    "cod_art": "4088",
+    "precio_lista": 550,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CINTA PASACABLE PLASTICA ALIGAS  7m",
+    "cod_art": "4089",
+    "precio_lista": 655,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CINTA PASACABLE PLASTICA ALIGAS 10m",
+    "cod_art": "4090",
+    "precio_lista": 670,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CINTA PASACABLE PLASTICA ALIGAS 15m",
+    "cod_art": "4091",
+    "precio_lista": 900,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "CINTA PASACABLE PLASTICA ALIGAS 20m",
+    "cod_art": "4093",
+    "precio_lista": 1095,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "PERSIANTEX",
+    "desc": "CINTA PERSIANA PERSIANTEX FINA 12/15, 50m",
+    "cod_art": "9201",
+    "precio_lista": 6465,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "PERSIANTEX",
+    "desc": "CINTA PERSIANA PERSIANTEX FINA 16/20, 50m",
+    "cod_art": "9202",
+    "precio_lista": 7410,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "PERSIANTEX",
+    "desc": "CINTA PERSIANA PERSIANTEX BLANCA/LIV., 100m 00",
+    "cod_art": "9203",
+    "precio_lista": 11725,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "PERSIANTEX",
+    "desc": "CINTA PERSIANA PERSIANTEX BLANCA/PESADA 100m 13",
+    "cod_art": "1800",
+    "precio_lista": 18580,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "PERSIANTEX",
+    "desc": "CINTA PERSIANA PERSIANTEX LIVIANA 100m 08",
+    "cod_art": "1802",
+    "precio_lista": 13710,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44888
+  },
+  {
+    "marca": "PERSIANTEX",
+    "desc": "CINTA PERSIANA PERSIANTEX MINIS./LIV. 100m 07",
+    "cod_art": "1803",
+    "precio_lista": 20320,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "PERSIANTEX",
+    "desc": "CINTA PERSIANA PERSIANTEX MINIS./PESADA 100m 12",
+    "cod_art": "9204",
+    "precio_lista": 27115,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "DUPONT",
+    "desc": "CINTA TEFLON,  1/2\" x 10m. X  10un.",
+    "cod_art": "9471",
+    "precio_lista": 460,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "DUPONT",
+    "desc": "CINTA TEFLON,  1/2\" x 20m. X  10un.",
+    "cod_art": "9472",
+    "precio_lista": 730,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "DUPONT",
+    "desc": "CINTA TEFLON,  3/4\" x 10m. X  10un.",
+    "cod_art": "9473",
+    "precio_lista": 875,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 1.8x19 100u",
+    "cod_art": "5637",
+    "precio_lista": 345,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 2.0x24 100u",
+    "cod_art": "5638",
+    "precio_lista": 435,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 2,5x25 100u",
+    "cod_art": "5639",
+    "precio_lista": 525,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 2,5x30 100u",
+    "cod_art": "5640",
+    "precio_lista": 655,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 2,5x35 100u",
+    "cod_art": "5641",
+    "precio_lista": 710,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 2,5x40 100u",
+    "cod_art": "5645",
+    "precio_lista": 775,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 2,5x50 100u",
+    "cod_art": "5642",
+    "precio_lista": 905,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 3.3x25 100u",
+    "cod_art": "5643",
+    "precio_lista": 855,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 3.3x30 100u",
+    "cod_art": "5644",
+    "precio_lista": 905,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 3.3x35 100u",
+    "cod_art": "5647",
+    "precio_lista": 1115,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 3.3x40 100u",
+    "cod_art": "5646",
+    "precio_lista": 1205,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 3.3x50 100u",
+    "cod_art": "5648",
+    "precio_lista": 1525,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "PY",
+    "desc": "CLAVO DE ACERO 3.3x60 100u",
+    "cod_art": "5649",
+    "precio_lista": 1780,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "GERDAU",
+    "desc": "CLAVO PUNTA PARIS  1, 1KG",
+    "cod_art": "7095",
+    "precio_lista": 1675,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "GERDAU",
+    "desc": "CLAVO PUNTA PARIS  1 1/2, 1KG",
+    "cod_art": "7090",
+    "precio_lista": 1630,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "GERDAU",
+    "desc": "CLAVO PUNTA PARIS  2, 1KG",
+    "cod_art": "7091",
+    "precio_lista": 1510,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "GERDAU",
+    "desc": "CLAVO PUNTA PARIS  2 1/2, 1KG",
+    "cod_art": "7092",
+    "precio_lista": 1460,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "GERDAU",
+    "desc": "CLAVO PUNTA PARIS  3, 1KG",
+    "cod_art": "7093",
+    "precio_lista": 1460,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "GERDAU",
+    "desc": "CLAVO PUNTA PARIS  4, 1KG",
+    "cod_art": "7094",
+    "precio_lista": 1460,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "COLA FORTEX A-20 a 1/8 kg.",
+    "cod_art": "9310",
+    "precio_lista": 460,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "COLA FORTEX A-20 f 200gr c/aplicador",
+    "cod_art": "9315",
+    "precio_lista": 620,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "COLA FORTEX A-20 b 1/4 kg.",
+    "cod_art": "9311",
+    "precio_lista": 620,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "COLA FORTEX A-20 c 1/2 kg.",
+    "cod_art": "9312",
+    "precio_lista": 1065,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "COLA FORTEX A-20 d 1 kg.",
+    "cod_art": "9313",
+    "precio_lista": 1625,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "COLA FORTEX A-20 e 6 kg.",
+    "cod_art": "9314",
+    "precio_lista": 9250,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "FORTEX",
+    "desc": "COLA FORTEX P-60 p/pisos de madera 1 kg.",
+    "cod_art": "9340",
+    "precio_lista": 1290,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "VALMA",
+    "desc": "CONEXIÓN FUELLE GOMA VALMA X 6U",
+    "cod_art": 9421,
+    "precio_lista": 1390,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "VALMA",
+    "desc": "CONEXIÓN FUELLE GOMA VALMA EX/LARGA",
+    "cod_art": 9429,
+    "precio_lista": 375,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "TENSIL",
+    "desc": "CORDON TRENZADO P/RIEL DE CORTINA 2,5mm x 200mt.",
+    "cod_art": "9754",
+    "precio_lista": 4340,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "TENSIL",
+    "desc": "CORDON TRENZADO P/CORT. AMERICANA 4mm x 200mt.",
+    "cod_art": "9751",
+    "precio_lista": 7160,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "AZZURRA",
+    "desc": "CORTAHIERRO  20cm",
+    "cod_art": "1035",
+    "precio_lista": 890,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "AZZURRA",
+    "desc": "CORTAHIERRO  25cm",
+    "cod_art": "1036",
+    "precio_lista": 960,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "AZZURRA",
+    "desc": "CORTAHIERRO  30cm",
+    "cod_art": "1037",
+    "precio_lista": 1095,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "AZZURRA",
+    "desc": "CORTAHIERRO  35cm",
+    "cod_art": "1038",
+    "precio_lista": 1245,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "AZZURRA",
+    "desc": "CORTAHIERRO  40cm",
+    "cod_art": "1039",
+    "precio_lista": 1310,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "JOBO",
+    "desc": "CORTAVIDRIO  JOBO  N*320",
+    "cod_art": "1369",
+    "precio_lista": 2300,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CUCHARA ALBAÑIL BREMEN 51/2\"",
+    "cod_art": "1056",
+    "precio_lista": 1465,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CUCHARA ALBAÑIL BREMEN 7\"",
+    "cod_art": "1047",
+    "precio_lista": 1435,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CUCHARA ALBAÑIL BREMEN 7\" R",
+    "cod_art": "1048",
+    "precio_lista": 1475,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CUCHARA ALBAÑIL BREMEN 8\"",
+    "cod_art": "1049",
+    "precio_lista": 1605,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CUCHARA ALBAÑIL BREMEN 8\" R",
+    "cod_art": "1050",
+    "precio_lista": 1635,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "EL ROBLE",
+    "desc": "CUCHARA ALBAÑIL EL ROBLE 5,1/2",
+    "cod_art": "1054",
+    "precio_lista": 1580,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EL ROBLE",
+    "desc": "CUCHARA ALBAÑIL EL ROBLE 6\"",
+    "cod_art": "1045",
+    "precio_lista": 1640,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EL ROBLE",
+    "desc": "CUCHARA ALBAÑIL EL ROBLE 7\"",
+    "cod_art": "1046",
+    "precio_lista": 1850,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EL ROBLE",
+    "desc": "CUCHARA ALBAÑIL EL ROBLE 7\" M",
+    "cod_art": "1051",
+    "precio_lista": 1930,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EL ROBLE",
+    "desc": "CUCHARA ALBAÑIL EL ROBLE 8\"",
+    "cod_art": "1052",
+    "precio_lista": 1930,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EL ROBLE",
+    "desc": "CUCHARA ALBAÑIL EL ROBLE 8\" M",
+    "cod_art": "1053",
+    "precio_lista": 2150,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "FERCAS",
+    "desc": "CUCHARA ALBAÑIL FERCAS 6\"",
+    "cod_art": "1225",
+    "precio_lista": 1070,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "FERCAS",
+    "desc": "CUCHARA ALBAÑIL FERCAS 7\"",
+    "cod_art": "1226",
+    "precio_lista": 1210,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "BISON",
+    "desc": "CUCHILLA DE REPUESTO BISON 18mm x 10u.",
+    "cod_art": "6215",
+    "precio_lista": 300,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "BISON",
+    "desc": "CUCHILLA DE REPUESTO BISON 18mm x 10u. x  10 env.",
+    "cod_art": "0548",
+    "precio_lista": 2700,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CUCHILLA DE REPUESTO  BREMEN TRAPECIO x 10u.",
+    "cod_art": "5458",
+    "precio_lista": 450,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "CUTER BREMEN CUERPO METALICO, HOJA TRAPECIO",
+    "cod_art": "5457",
+    "precio_lista": 1725,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "J. ELIA",
+    "desc": "CUTER 18mm GUIA METALICA, BLISTER 1un.",
+    "cod_art": "0519",
+    "precio_lista": 360,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44838
+  },
+  {
+    "marca": "LYR",
+    "desc": "CUTER SHINEWAY SX9,  18mm C/TRABA AUTOLOCK",
+    "cod_art": "8543",
+    "precio_lista": 210,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "LYR",
+    "desc": "CUTER SHINEWAY SX83,  18mm C/GOMA",
+    "cod_art": "8540",
+    "precio_lista": 800,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "LYR",
+    "desc": "CUTER SHINEWAY SX87,  18mm CON SACAPUNTAS",
+    "cod_art": "8541",
+    "precio_lista": 960,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "LYR",
+    "desc": "CUTER SHINEWAY SX981, 18mm CUERPO METALICO",
+    "cod_art": "8542",
+    "precio_lista": 1435,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO CIRC. 22mm 6paq.",
+    "cod_art": "0215",
+    "precio_lista": 1255,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO CIRC. 28mm 6paq.",
+    "cod_art": "0216",
+    "precio_lista": 1255,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO CIRC. 32mm  6paq.",
+    "cod_art": "0222",
+    "precio_lista": 1255,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO 22x22mm  6paq.",
+    "cod_art": "0217",
+    "precio_lista": 1255,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO 30x30mm  6paq.",
+    "cod_art": "0218",
+    "precio_lista": 1255,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO 45x45mm  6paq.",
+    "cod_art": "0244",
+    "precio_lista": 1255,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO 90x90mm  6paq.",
+    "cod_art": "0245",
+    "precio_lista": 1255,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO RECT. 14x14cm ",
+    "cod_art": "0247",
+    "precio_lista": 260,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO RECT. 14x45cm 1u",
+    "cod_art": "0242",
+    "precio_lista": 700,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO TIRA 30x90 6paq.",
+    "cod_art": "0246",
+    "precio_lista": 1255,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO TIRA 30x1000mm",
+    "cod_art": "0220",
+    "precio_lista": 350,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO TIRA 60x 500mm",
+    "cod_art": "0239",
+    "precio_lista": 350,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DESLIZANTE ADHES., FIELTRO TIRA 60x1000mm ",
+    "cod_art": "0240",
+    "precio_lista": 700,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PNT",
+    "desc": "DESTAPACAÑERIA LIQUIDO PNT,  ½lt. X 6U",
+    "cod_art": "0178",
+    "precio_lista": 2150,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44869
+  },
+  {
+    "marca": "PNT",
+    "desc": "DESTAPACAÑERIA LIQUIDO PNT,  1lt. X 6U",
+    "cod_art": "0179",
+    "precio_lista": 3445,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44869
+  },
+  {
+    "marca": "PNT",
+    "desc": "DESTAPACAÑERIA GEL PNT,  ½lt. X 6U",
+    "cod_art": "0182",
+    "precio_lista": 2275,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44869
+  },
+  {
+    "marca": "PNT",
+    "desc": "DESTAPACAÑERIA GEL PNT,  1lt. X 6U",
+    "cod_art": "0183",
+    "precio_lista": 3680,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44869
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "DESTAPACAÑERIA PLASTICO ROLLS  5MTS",
+    "cod_art": "4030",
+    "precio_lista": 1265,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "DESTAPACAÑERIA PLASTICO ROLLS 10MTS",
+    "cod_art": "4092",
+    "precio_lista": 1730,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "DESTAPACAÑERIA PLASTICO ROLLS 15MTS",
+    "cod_art": "4428",
+    "precio_lista": 2155,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "DESTAPACAÑERIA PLASTICO ROLLS 20MTS",
+    "cod_art": "4429",
+    "precio_lista": 2640,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "DESTAPA INODORO EL ABUELO",
+    "cod_art": "5060",
+    "precio_lista": 3540,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "ALIGAS",
+    "desc": "DESTAPA INODORO ROLLS",
+    "cod_art": "4022",
+    "precio_lista": 3570,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44873
+  },
+  {
+    "marca": "BISON",
+    "desc": "DESTORNILLADOR BISON JUEGO 2 PZAS.",
+    "cod_art": "0805",
+    "precio_lista": 850,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PH 3 x  80mm",
+    "cod_art": "3840",
+    "precio_lista": 540,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PH 3 x 200mm",
+    "cod_art": "3841",
+    "precio_lista": 630,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PH 4 x 100mm",
+    "cod_art": "3842",
+    "precio_lista": 605,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PH 5 x 100mm",
+    "cod_art": "3843",
+    "precio_lista": 720,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PH 5 x 125mm",
+    "cod_art": "3844",
+    "precio_lista": 735,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PH 5 x 150mm",
+    "cod_art": "3845",
+    "precio_lista": 780,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PH 6 x  38mm",
+    "cod_art": "3846",
+    "precio_lista": 735,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PH 6 x 100mm",
+    "cod_art": "3847",
+    "precio_lista": 880,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PH 6 x 125mm",
+    "cod_art": "3848",
+    "precio_lista": 895,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PH 6 x 150mm",
+    "cod_art": 3849,
+    "precio_lista": 935,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "",
+    "desc": "",
+    "cod_art": " ",
+    "precio_lista": "",
+    "": "",
+    "min_cant_venta": "",
+    "ultimo_cambio_precio": ""
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PL 3 x 100mm",
+    "cod_art": 3850,
+    "precio_lista": 540,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PL 3 x 150mm",
+    "cod_art": 3851,
+    "precio_lista": 555,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PL 4 x 100mm",
+    "cod_art": 3852,
+    "precio_lista": 605,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PL 4 x 125mm",
+    "cod_art": 3853,
+    "precio_lista": 630,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PL 5 x 100mm",
+    "cod_art": 3854,
+    "precio_lista": 720,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PL 5 x 125mm",
+    "cod_art": 3855,
+    "precio_lista": 735,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PL 5 x 150mm",
+    "cod_art": 3856,
+    "precio_lista": 785,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PL 6 x   38mm",
+    "cod_art": 3857,
+    "precio_lista": 735,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PL 6 x 100mm",
+    "cod_art": 3858,
+    "precio_lista": 880,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PL 6 x 125mm",
+    "cod_art": 3868,
+    "precio_lista": 895,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PL 6 x 150mm",
+    "cod_art": 3869,
+    "precio_lista": 935,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BR ELECTR. PH 3.0 x   60mm. 1000V",
+    "cod_art": 3870,
+    "precio_lista": 865,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BR ELECTR. PH 4.5 x   80mm. 1000V",
+    "cod_art": 3871,
+    "precio_lista": 1065,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BR ELECTR. PH 6.0 x 100mm. 1000V",
+    "cod_art": 3872,
+    "precio_lista": 1340,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BR ELECTR. PL 2.5 x  75mm. 1000V",
+    "cod_art": 3873,
+    "precio_lista": 845,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BR ELECTR. PL 4.0 x 100mm. 1000V",
+    "cod_art": 3874,
+    "precio_lista": 975,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PERILLERO PL 3 x 100mm",
+    "cod_art": "3831",
+    "precio_lista": 565,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PERILLERO PL 3 x 150mm",
+    "cod_art": "3832",
+    "precio_lista": 620,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PERILLERO PL 4 x 100mm",
+    "cod_art": "3833",
+    "precio_lista": 620,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DESTORNILLADOR BREMEN PERILLERO PL 4 x 150mm",
+    "cod_art": "3834",
+    "precio_lista": 705,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "FELO",
+    "desc": "DESTORNILLADOR FELO AZUL 800, PL 3,0 x   80",
+    "cod_art": "6255",
+    "precio_lista": 1605,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "FELO",
+    "desc": "DESTORNILLADOR FELO AZUL 800, PL 3,5 x 100",
+    "cod_art": "6256",
+    "precio_lista": 1975,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "FELO",
+    "desc": "DESTORNILLADOR FELO AZUL 800, PL 4,0 x 100",
+    "cod_art": "6257",
+    "precio_lista": 2075,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "FELO",
+    "desc": "DESTORNILLADOR FELO AZUL 800, PL 5,0 x 150",
+    "cod_art": "6258",
+    "precio_lista": 3200,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "FELO",
+    "desc": "DESTORNILLADOR FELO AZUL 800, PL 6,5 x 150",
+    "cod_art": "6259",
+    "precio_lista": 3580,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "FELO",
+    "desc": "DESTORNILLADOR FELO AZUL 802, PH 0 x   60",
+    "cod_art": "6250",
+    "precio_lista": 1830,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "FELO",
+    "desc": "DESTORNILLADOR FELO AZUL 802, PH 1 x   80",
+    "cod_art": "6251",
+    "precio_lista": 2630,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "FELO",
+    "desc": "DESTORNILLADOR FELO AZUL 802, PH 2 x 100",
+    "cod_art": "6252",
+    "precio_lista": 3400,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "FELO",
+    "desc": "DESTORNILLADOR FELO AZUL 802, PH 3 x 150",
+    "cod_art": "6253",
+    "precio_lista": 4985,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "DESTORNILLADOR KETTLER PH 3,0 x  75 mm",
+    "cod_art": "3301",
+    "precio_lista": 380,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "DESTORNILLADOR KETTLER PH 4,0 x 100 mm",
+    "cod_art": "3302",
+    "precio_lista": 460,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "DESTORNILLADOR KETTLER PH 5,0 x 100 mm",
+    "cod_art": "3303",
+    "precio_lista": 585,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "DESTORNILLADOR KETTLER PH 6,0 x 100 mm",
+    "cod_art": "3304",
+    "precio_lista": 830,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "DESTORNILLADOR KETTLER PL 3,0 x  75 mm",
+    "cod_art": "3310",
+    "precio_lista": 360,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "DESTORNILLADOR KETTLER PL 4,0 x 100 mm",
+    "cod_art": "3311",
+    "precio_lista": 410,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "DESTORNILLADOR KETTLER PL 5,0 x 100 mm",
+    "cod_art": "3312",
+    "precio_lista": 555,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "DESTORNILLADOR KETTLER PL 5,0 x 150 mm",
+    "cod_art": "3313",
+    "precio_lista": 630,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "BISON",
+    "desc": "DESTORNILLADOR RELOJERO JGO. 6U",
+    "cod_art": "1373",
+    "precio_lista": 455,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DIAMANTADO BREMEN CONTINUO 115mm",
+    "cod_art": "3883",
+    "precio_lista": 1225,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DIAMANTADO BREMEN CONTINUO 180mm",
+    "cod_art": "3882",
+    "precio_lista": 3115,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DIAMANTADO BREMEN SEGMENTADO 115mm",
+    "cod_art": "3884",
+    "precio_lista": 1325,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DIAMANTADO BREMEN SEGMENTADO 180mm",
+    "cod_art": "3886",
+    "precio_lista": 3340,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DIAMANTADO BREMEN TURBO 115mm",
+    "cod_art": "3885",
+    "precio_lista": 1445,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DIAMANTADO BREMEN TURBO 180mm",
+    "cod_art": "3887",
+    "precio_lista": 3570,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "KLEBER",
+    "desc": "DIAMANTADO KLEBER TURBO FINO 115mm, PORCELANATO",
+    "cod_art": "1450",
+    "precio_lista": 2570,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44908
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DIAMANTADO TYROLIT CONTINUO 115mm",
+    "cod_art": "2471",
+    "precio_lista": 1385,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DIAMANTADO TYROLIT CONTINUO 180mm",
+    "cod_art": "2472",
+    "precio_lista": 3600,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DIAMANTADO TYROLIT SEGMENTADO 115mm",
+    "cod_art": "2475",
+    "precio_lista": 1925,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DIAMANTADO TYROLIT SEGMENTADO 180mm",
+    "cod_art": "2476",
+    "precio_lista": 4410,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DIAMANTADO TYROLIT TURBO 115mm",
+    "cod_art": "2478",
+    "precio_lista": 1990,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DIAMANTADO TYROLIT TURBO 180mm",
+    "cod_art": "2479",
+    "precio_lista": 4690,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44866
+  },
+  {
+    "marca": "YARD",
+    "desc": "DIAMANTADO YARD 78 TURBO 180mm",
+    "cod_art": "3409",
+    "precio_lista": 2270,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44803
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "DISCO TUNGSTENO BREMEN P/CORTAR MADERA 114 mm",
+    "cod_art": "4442",
+    "precio_lista": 2295,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "KLEBER",
+    "desc": "DISCO TUNGSTENO KLEBER P/CORTAR MADERA 115 mm",
+    "cod_art": "1455",
+    "precio_lista": 2855,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44908
+  },
+  {
+    "marca": "TRAMONTINA",
+    "desc": "DISCO TRAMONTINA PRO OX-AL 114x 1,0",
+    "cod_art": "7673",
+    "precio_lista": 225,
+    "": "NUEVO",
+    "min_cant_venta": "",
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DISCO TYROLIT EXPERT FINO  OX-AL 114x 1,0",
+    "cod_art": "2429",
+    "precio_lista": 355,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44893
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DISCO TYROLIT EXPERT FINO  OX-AL 114x 1,6",
+    "cod_art": "2430",
+    "precio_lista": 310,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44893
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DISCO TYROLIT EXPERT FINO  OX-AL 178x 1,6",
+    "cod_art": "2431",
+    "precio_lista": 485,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44893
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DISCO TYROLIT EXPERT C/DEPR.  OX-AL 114x 4,8",
+    "cod_art": "2441",
+    "precio_lista": 485,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44893
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DISCO TYROLIT SECUR FINO  OX-AL 114x 1,0",
+    "cod_art": "2434",
+    "precio_lista": 495,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44893
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DISCO TYROLIT SECUR FINO  OX-AL 114x 1,6",
+    "cod_art": "2435",
+    "precio_lista": 430,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44893
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DISCO TYROLIT SECUR FINO  OX-AL 178x 1,6",
+    "cod_art": "2436",
+    "precio_lista": 675,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44893
+  },
+  {
+    "marca": "TYROLIT",
+    "desc": "DISCO TYROLIT SECUR FINO  OX-AL 230x 1.9",
+    "cod_art": "2437",
+    "precio_lista": 1075,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44893
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DOBLE FAZ AUTOADH., CUADRO 30x30mm x 6paq.",
+    "cod_art": "0225",
+    "precio_lista": 1040,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "PEGASO",
+    "desc": "DOBLE FAZ AUTOADH., TIRA 30x90mm x 6paq.",
+    "cod_art": "0226",
+    "precio_lista": 1360,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44914
+  },
+  {
+    "marca": "FADIRCO",
+    "desc": "ELECTRODO PUNTA AZUL 2,00mm,   $xkg",
+    "cod_art": "1871",
+    "precio_lista": 1545,
+    "": "",
+    "min_cant_venta": 5,
+    "ultimo_cambio_precio": 44853
+  },
+  {
+    "marca": "FADIRCO",
+    "desc": "ELECTRODO PUNTA AZUL 2,50mm,   $xkg",
+    "cod_art": "1872",
+    "precio_lista": 1225,
+    "": "",
+    "min_cant_venta": 5,
+    "ultimo_cambio_precio": 44853
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ENGRAMPADORA/ABROCHADORA BREMEN + 1000 grampas",
+    "cod_art": "3880",
+    "precio_lista": 3940,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ENGRAMPADORA BREMEN TRIPLE CON MALETIN",
+    "cod_art": "3881",
+    "precio_lista": 6370,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ENGRAMPADORA BREMEN TRIPLE PROFESIONAL ",
+    "cod_art": "3879",
+    "precio_lista": 11965,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "EVOLUTION",
+    "desc": "ENGRAMPADORA ROTTWEILER, CAJA METALICA",
+    "cod_art": "5459",
+    "precio_lista": 3945,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "SIRA",
+    "desc": "ENROLLADOR SIRA BLANCO 4 mts.",
+    "cod_art": "2900",
+    "precio_lista": 2640,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "SIRA",
+    "desc": "ENROLLADOR SIRA BLANCO 6 mts.",
+    "cod_art": "2901",
+    "precio_lista": 3145,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "SIRA",
+    "desc": "ENROLLADOR SIRA BLANCO 8 mts.",
+    "cod_art": "2902",
+    "precio_lista": 3920,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "SIRA",
+    "desc": "ENROLLADOR SIRA BLANCO C/BUCHE 4 mts.",
+    "cod_art": "2905",
+    "precio_lista": 3410,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "SIRA",
+    "desc": "ENROLLADOR SIRA BLANCO C/BUCHE 6 mts.",
+    "cod_art": "2906",
+    "precio_lista": 3665,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "SIRA",
+    "desc": "ENROLLADOR SIRA BLANCO C/BUCHE 8 mts.",
+    "cod_art": "2907",
+    "precio_lista": 4335,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "SIRA",
+    "desc": "ENROLLADOR SIRA PICCOLO",
+    "cod_art": "2910",
+    "precio_lista": 2780,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "SAO LEOP.",
+    "desc": "ESCALERA ALUMINIO MOR,  3 esc.",
+    "cod_art": "0066",
+    "precio_lista": 13885,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "SAO LEOP.",
+    "desc": "ESCALERA ALUMINIO MOR,  4 esc.",
+    "cod_art": "0067",
+    "precio_lista": 16235,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "SAO LEOP.",
+    "desc": "ESCALERA ALUMINIO MOR,  5 esc.",
+    "cod_art": "0068",
+    "precio_lista": 21845,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "SAO LEOP.",
+    "desc": "ESCALERA ALUMINIO MOR,  6 esc.",
+    "cod_art": "0069",
+    "precio_lista": 24920,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "SAO LEOP.",
+    "desc": "ESCALERA ALUMINIO MOR,  7 esc.",
+    "cod_art": "0070",
+    "precio_lista": 29890,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "SAO LEOP.",
+    "desc": "ESCALERA ALUMINIO MOR,  8 esc.",
+    "cod_art": "0071",
+    "precio_lista": 33840,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "EL ABUELO",
+    "desc": "ESCARIADOR P/VENTANAS REMOUVING",
+    "cod_art": "5029",
+    "precio_lista": 580,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "LYR",
+    "desc": "ESCARIADOR P/VENTANAS SHINEWAY",
+    "cod_art": "8544",
+    "precio_lista": 200,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ESCUADRA CARP. BREMEN 25cm ALUMINIO",
+    "cod_art": "1314",
+    "precio_lista": 2440,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ESCUADRA CARP. BREMEN 30cm ALUMINIO",
+    "cod_art": "1315",
+    "precio_lista": 2575,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ESCUADRA CARP. BREMEN 35cm ALUMINIO",
+    "cod_art": "1316",
+    "precio_lista": 2925,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESCUADRA PLANA SC  25x10  24u",
+    "cod_art": "7001",
+    "precio_lista": 535,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESCUADRA PLANA SC  38x10  24u",
+    "cod_art": "7002",
+    "precio_lista": 665,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESCUADRA PLANA SC  50x10  24u",
+    "cod_art": "7003",
+    "precio_lista": 825,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESCUADRA PLANA SC  65x10  24u",
+    "cod_art": "7004",
+    "precio_lista": 1135,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESCUADRA PLANA SC  75x13  24u",
+    "cod_art": "7005",
+    "precio_lista": 1395,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESCUADRA PLANA SC  90x15  24u",
+    "cod_art": "7006",
+    "precio_lista": 1985,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESCUADRA PLANA SC 100x15  24u",
+    "cod_art": "7007",
+    "precio_lista": 2445,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESCUADRA PLANA SC 125x20  12u",
+    "cod_art": "7008",
+    "precio_lista": 1970,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESCUADRA PLANA SC 150X20  12u",
+    "cod_art": "7009",
+    "precio_lista": 2280,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ESPATULA ACERO FLEXIBLE C/PLASTICO  25mm/1\"",
+    "cod_art": "5520",
+    "precio_lista": 265,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ESPATULA ACERO FLEXIBLE C/PLASTICO  38mm/1.1/2\"",
+    "cod_art": "5521",
+    "precio_lista": 270,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ESPATULA ACERO FLEXIBLE C/PLASTICO  50mm/2\"",
+    "cod_art": "5522",
+    "precio_lista": 295,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ESPATULA ACERO FLEXIBLE C/PLASTICO  63mm/2.1/2\"",
+    "cod_art": "5523",
+    "precio_lista": 305,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ESPATULA ACERO FLEXIBLE C/PLASTICO  75mm/3\"",
+    "cod_art": "5524",
+    "precio_lista": 350,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ESPATULA ACERO FLEXIBLE C/PLASTICO  90mm/3.1/2\"",
+    "cod_art": "5525",
+    "precio_lista": 370,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ESPATULA ACERO FLEXIBLE C/PLASTICO  100mm/4\"",
+    "cod_art": "5526",
+    "precio_lista": 400,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ESPATULA ACERO FLEXIBLE C/PLASTICO  125mm/5\"",
+    "cod_art": "5527",
+    "precio_lista": 420,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "ESPATULA ACERO FLEXIBLE C/PLASTICO  150mm/6\"",
+    "cod_art": "5528",
+    "precio_lista": 465,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC  25x25  24u",
+    "cod_art": "7010",
+    "precio_lista": 460,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC  38X38  24u",
+    "cod_art": "7011",
+    "precio_lista": 750,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC  50x50  24u",
+    "cod_art": "7012",
+    "precio_lista": 1210,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC  64X64  24u",
+    "cod_art": "7013",
+    "precio_lista": 1585,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC  76X76  12u",
+    "cod_art": "7014",
+    "precio_lista": 1220,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC  90X90  12u",
+    "cod_art": "7015",
+    "precio_lista": 1580,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC 100X100  12u",
+    "cod_art": "7016",
+    "precio_lista": 1815,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC 125X125  12u",
+    "cod_art": "7017",
+    "precio_lista": 2810,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC 150X150  12u",
+    "cod_art": "7018",
+    "precio_lista": 3325,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC  DOBLE 35X35  24u",
+    "cod_art": "7011D",
+    "precio_lista": 1465,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC  DOBLE 50X50  24u",
+    "cod_art": "7012D",
+    "precio_lista": 2080,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC  DOBLE 65X65  24u",
+    "cod_art": "7013D",
+    "precio_lista": 2655,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "ESQUINERO ANGULO SC  TRIPLE 76X76  12u",
+    "cod_art": "7014T",
+    "precio_lista": 990,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "J. ELIA",
+    "desc": "ESTAÑO 50% BLISTER 0,6mt  X 10u",
+    "cod_art": "1298",
+    "precio_lista": 1700,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44907
+  },
+  {
+    "marca": "EXIMETAL",
+    "desc": "ESTAÑO 50% BLISTER 1,5mt  X 10u",
+    "cod_art": "1299",
+    "precio_lista": 3640,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "ESTOPA",
+    "desc": "ESTOPA DE LUSTRE 300gr.",
+    "cod_art": "2098",
+    "precio_lista": 230,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44768
+  },
+  {
+    "marca": "VALMA",
+    "desc": "FILTRO P/PILETA, UNIVERSAL AC/INOX. x 20u",
+    "cod_art": 9435,
+    "precio_lista": 4725,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "VALMA",
+    "desc": "FILTRO P/PILETA, PLASTICO GRANDE x 12u",
+    "cod_art": 9436,
+    "precio_lista": 4215,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "VALMA",
+    "desc": "FILTRO P/PILETA, PLASTICO CHICO P/BIDET x 25u",
+    "cod_art": "9437",
+    "precio_lista": 4645,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "LYR",
+    "desc": "FILTRO SPAR 2u.",
+    "cod_art": "0243",
+    "precio_lista": 255,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44819
+  },
+  {
+    "marca": "",
+    "desc": "",
+    "cod_art": " ",
+    "precio_lista": "",
+    "": "",
+    "min_cant_venta": "",
+    "ultimo_cambio_precio": ""
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "FLAPER  115 mm HIERRO Y AC./INOX.,  GR  40",
+    "cod_art": 4436,
+    "precio_lista": 540,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "FLAPER  115 mm HIERRO Y AC./INOX.,  GR  60",
+    "cod_art": 4437,
+    "precio_lista": 540,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "FLAPER  115 mm HIERRO Y AC./INOX.,  GR  80",
+    "cod_art": 4438,
+    "precio_lista": 540,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "FLAPER  115 mm HIERRO Y AC./INOX.,  GR 120",
+    "cod_art": 4439,
+    "precio_lista": 540,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "FLAPER  115 mm MADERA GR  60",
+    "cod_art": 4431,
+    "precio_lista": 630,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "FLAPER  115 mm MADERA GR  80",
+    "cod_art": "4432",
+    "precio_lista": 630,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "FLAPER  115 mm MADERA GR 120",
+    "cod_art": "4433",
+    "precio_lista": 630,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "FLAPER  115 mm MADERA GR 220",
+    "cod_art": "4434",
+    "precio_lista": 630,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BISON",
+    "desc": "FORMON BISON JGO. 4 PZAS.",
+    "cod_art": "0810",
+    "precio_lista": 3270,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44889
+  },
+  {
+    "marca": "TRAMONTINA",
+    "desc": "FORMON TRAMONTINA  6mm  cabo madera",
+    "cod_art": "6365",
+    "precio_lista": 2615,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "TRAMONTINA",
+    "desc": "FORMON TRAMONTINA 10mm cabo madera ",
+    "cod_art": "6366",
+    "precio_lista": 2700,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "TRAMONTINA",
+    "desc": "FORMON TRAMONTINA 12mm cabo madera ",
+    "cod_art": "6367",
+    "precio_lista": 2725,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "TRAMONTINA",
+    "desc": "FORMON TRAMONTINA 16mm cabo madera ",
+    "cod_art": "6368",
+    "precio_lista": 2755,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "TRAMONTINA",
+    "desc": "FORMON TRAMONTINA 19mm cabo madera ",
+    "cod_art": "6369",
+    "precio_lista": 2775,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "TRAMONTINA",
+    "desc": "FORMON TRAMONTINA 22mm cabo madera ",
+    "cod_art": "6370",
+    "precio_lista": 2800,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "TRAMONTINA",
+    "desc": "FORMON TRAMONTINA 25mm cabo madera ",
+    "cod_art": 6371,
+    "precio_lista": 2855,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "STANLEY",
+    "desc": "FORMON STANLEY   6mm cabo propileno",
+    "cod_art": "6070",
+    "precio_lista": 4765,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "STANLEY",
+    "desc": "FORMON STANLEY  10mm cabo propileno",
+    "cod_art": "6071",
+    "precio_lista": 5540,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "STANLEY",
+    "desc": "FORMON STANLEY  13mm cabo propileno",
+    "cod_art": "6072",
+    "precio_lista": 5085,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "STANLEY",
+    "desc": "FORMON STANLEY  16mm cabo propileno",
+    "cod_art": "6073",
+    "precio_lista": 5265,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "STANLEY",
+    "desc": "FORMON STANLEY  19mm cabo propileno",
+    "cod_art": "6074",
+    "precio_lista": 6355,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "STANLEY",
+    "desc": "FORMON STANLEY  22mm cabo propileno",
+    "cod_art": "6075",
+    "precio_lista": 6545,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "STANLEY",
+    "desc": "FORMON STANLEY  25mm cabo propileno",
+    "cod_art": "6076",
+    "precio_lista": 6910,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "HUNTER",
+    "desc": "FRATACHO ABRASIVO  grano fino",
+    "cod_art": "0703",
+    "precio_lista": 865,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "HUNTER",
+    "desc": "FRATACHO ABRASIVO grano medio",
+    "cod_art": "0704",
+    "precio_lista": 865,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "HUNTER",
+    "desc": "FRATACHO ABRASIVO grano grueso",
+    "cod_art": "0705",
+    "precio_lista": 865,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "ANEMI",
+    "desc": "FRATACHO ALGARROBO 25cm",
+    "cod_art": "1118",
+    "precio_lista": 1835,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "ANEMI",
+    "desc": "FRATACHO ALGARROBO 30cm",
+    "cod_art": "1119",
+    "precio_lista": 2065,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "ANEMI",
+    "desc": "FRATACHO ALGARROBO 35cm",
+    "cod_art": "1117",
+    "precio_lista": 2215,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "LAVASOLA",
+    "desc": "FRATACHO DE PINO 20cm",
+    "cod_art": "1860",
+    "precio_lista": 320,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "LAVASOLA",
+    "desc": "FRATACHO DE PINO 25cm",
+    "cod_art": "1861",
+    "precio_lista": 480,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "LAVASOLA",
+    "desc": "FRATACHO DE PINO 30cm",
+    "cod_art": "1862",
+    "precio_lista": 520,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "LAVASOLA",
+    "desc": "FRATACHO DE PINO 35cm",
+    "cod_art": "1863",
+    "precio_lista": 570,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "LAVASOLA",
+    "desc": "FRATACHO DE PINO 40cm",
+    "cod_art": "1864",
+    "precio_lista": 600,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "BAIARDI",
+    "desc": "FRATACHO PLASTICO 20cm",
+    "cod_art": "1126",
+    "precio_lista": 190,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "BAIARDI",
+    "desc": "FRATACHO PLASTICO 25cm",
+    "cod_art": "1127",
+    "precio_lista": 225,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44876
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "GANCHO HAMACA PARAGUAYA C/ARGOLLA SC 1003",
+    "cod_art": "7021",
+    "precio_lista": 335,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "GANCHO HAMACA PARAGUAYA C/GANCHO SC 1001",
+    "cod_art": "7020",
+    "precio_lista": 360,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "METAL. SC",
+    "desc": "GANCHO P/COLGAR BICICLETA/ESCALERA 15x15cm, par",
+    "cod_art": "7044",
+    "precio_lista": 705,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44869
+  },
+  {
+    "marca": "MULTIMAX",
+    "desc": "GANCHO P/SOGA ELASTIZADA, 20un.",
+    "cod_art": "9216",
+    "precio_lista": 520,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44851
+  },
+  {
+    "marca": "BROGAS",
+    "desc": "GAS BUTANO, CARTUCHO de 227gr",
+    "cod_art": "1031",
+    "precio_lista": 675,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "BROGAS",
+    "desc": "GEL REFRIGERANTE P/CONSERV., 330gr.  x  6u",
+    "cod_art": "1061",
+    "precio_lista": 820,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PNT",
+    "desc": "GRAFITO EN POLVO, 50gr x 6un.",
+    "cod_art": "1948",
+    "precio_lista": 1160,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "DIFELBROC",
+    "desc": "GRAMPA 1/2 OMEGA DIFELBROC a 5/16\"  25un",
+    "cod_art": 4142,
+    "precio_lista": 880,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "DIFELBROC",
+    "desc": "GRAMPA 1/2 OMEGA DIFELBROC b 3/8\"    25un",
+    "cod_art": 4143,
+    "precio_lista": 1000,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "DIFELBROC",
+    "desc": "GRAMPA 1/2 OMEGA DIFELBROC c 1/2\"    25un",
+    "cod_art": 4144,
+    "precio_lista": 1200,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "DIFELBROC",
+    "desc": "GRAMPA 1/2 OMEGA DIFELBROC d 5/8\"    25un",
+    "cod_art": 4145,
+    "precio_lista": 1600,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "DIFELBROC",
+    "desc": "GRAMPA 1/2 OMEGA DIFELBROC e 3/4\"    20un",
+    "cod_art": 4146,
+    "precio_lista": 1705,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "DIFELBROC",
+    "desc": "GRAMPA 1/2 OMEGA DIFELBROC f 7/8\"     25un",
+    "cod_art": 4147,
+    "precio_lista": 1880,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "DIFELBROC",
+    "desc": "GRAMPA 1/2 OMEGA DIFELBROC g 1\"       25un",
+    "cod_art": 4148,
+    "precio_lista": 1990,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "DIFELBROC",
+    "desc": "GRAMPA 1/2 OMEGA DIFELBROC h 1.1/4\" 25un",
+    "cod_art": 4149,
+    "precio_lista": 2280,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "BISON",
+    "desc": "GRAMPA P/ENGRAMPADORA  8mm  1000u x 5cajas",
+    "cod_art": 1355,
+    "precio_lista": 1200,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "GRAMPA P/ENGRAMPADORA  8mm  PESADA 1000u x 1caja",
+    "cod_art": 4815,
+    "precio_lista": 915,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "STANLEY",
+    "desc": "GRAMPA P/ENGRAMPADORA  6mm 1000u VERDE",
+    "cod_art": "6147A",
+    "precio_lista": 2270,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "STANLEY",
+    "desc": "GRAMPA P/ENGRAMPADORA  8mm 1000u VERDE",
+    "cod_art": "6147B",
+    "precio_lista": 2270,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "STANLEY",
+    "desc": "GRAMPA P/ENGRAMPADORA  6mm 1000u AZUL",
+    "cod_art": "6148A",
+    "precio_lista": 2635,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "STANLEY",
+    "desc": "GRAMPA P/ENGRAMPADORA  8mm 1000u AZUL",
+    "cod_art": "6148B",
+    "precio_lista": 2805,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "PNT",
+    "desc": "GRASA AMARILLA PNT 100gr VASELINADA x 6u",
+    "cod_art": "0172",
+    "precio_lista": 1705,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PNT",
+    "desc": "GRASA GRAFITADA PNT 100gr x 6u",
+    "cod_art": "0170",
+    "precio_lista": 1880,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PNT",
+    "desc": "GRASA GRAFITADA PNT 300gr",
+    "cod_art": "0171",
+    "precio_lista": 635,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PNT",
+    "desc": "GRASA GRAFITADA PNT 500gr",
+    "cod_art": "0169",
+    "precio_lista": 1155,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PNT",
+    "desc": "GRASA SUPER LITIO PNT 100gr x 6u",
+    "cod_art": "0174",
+    "precio_lista": 2245,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PNT",
+    "desc": "GRASA SUPER LITIO PNT 300gr",
+    "cod_art": "0180",
+    "precio_lista": 795,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PNT",
+    "desc": "GRASA SUPER LITIO PNT 500gr",
+    "cod_art": "0181",
+    "precio_lista": 1490,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "PNT",
+    "desc": "GRASA SUPER LITIO PNT 1 Kg",
+    "cod_art": "0175",
+    "precio_lista": 2865,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "AS",
+    "desc": "GUANTE DESCARTABLE LATEX 2M x 100 un.",
+    "cod_art": "0098",
+    "precio_lista": 1225,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44858
+  },
+  {
+    "marca": "AS",
+    "desc": "GUANTE DESCARTABLE LATEX 3L  x 100 un.",
+    "cod_art": "0099",
+    "precio_lista": 1225,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44858
+  },
+  {
+    "marca": "LYR",
+    "desc": "GUANTE ENGOMADO LATEX, 1par",
+    "cod_art": "0094",
+    "precio_lista": 655,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44909
+  },
+  {
+    "marca": "GAMISOL",
+    "desc": "GUANTE TEJIDO BLANCO MOTEADO, 12pares",
+    "cod_art": "1136",
+    "precio_lista": 2835,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "GAMISOL",
+    "desc": "GUANTE TEJIDO GRIS MOTEADO ECONOMICO, 12pares",
+    "cod_art": "0097",
+    "precio_lista": 2515,
+    "": "NUEVO",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44901
+  },
+  {
+    "marca": "LYR",
+    "desc": "GUANTE TEJIDO GRIS  MOTEADO, 1par",
+    "cod_art": "0093",
+    "precio_lista": 310,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44897
+  },
+  {
+    "marca": "TRAMONTINA",
+    "desc": "HACHA TUMBA C/CABO TRAMONTINA",
+    "cod_art": "9604",
+    "precio_lista": 10525,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44915
+  },
+  {
+    "marca": "BR",
+    "desc": "HILO ALGODON ALBAÑIL # 24, 100 G. x 10u.",
+    "cod_art": "1452",
+    "precio_lista": 4345,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44853
+  },
+  {
+    "marca": "BR",
+    "desc": "HILO ALGODÓN CHORICERO, 50 G. x 10u.",
+    "cod_art": "1686",
+    "precio_lista": 1800,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44833
+  },
+  {
+    "marca": "BR",
+    "desc": "HILO ALGODÓN REFORZADO, 50 G. x 10u.",
+    "cod_art": "1685",
+    "precio_lista": 1340,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44833
+  },
+  {
+    "marca": "ASLER",
+    "desc": "HILO POLIPROPILENO,  100gr x 10u",
+    "cod_art": "9611",
+    "precio_lista": 3930,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "ASLER",
+    "desc": "HILO POLIPROPILENO,  250gr x 1u",
+    "cod_art": "9619",
+    "precio_lista": 945,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "ASLER",
+    "desc": "HILO POLIPROPILENO VIRGEN,  400gr x 1u",
+    "cod_art": "9615",
+    "precio_lista": 1305,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44886
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "HOJA CALAR BREMEN BOSCH 5366 x 5u, madera",
+    "cod_art": "0482",
+    "precio_lista": 1740,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "HOJA CALAR BREMEN BOSCH 5367 x 5u, madera",
+    "cod_art": "0483",
+    "precio_lista": 1740,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "HOJA CALAR BREMEN BOSCH 5368 x 5u, madera",
+    "cod_art": "0484",
+    "precio_lista": 1145,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "HOJA CALAR BREMEN BOSCH 5369 x 5u, metal",
+    "cod_art": "0485",
+    "precio_lista": 2285,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "HOJA CALAR BREMEN BOSCH 5370 x 5u, metal",
+    "cod_art": "0486",
+    "precio_lista": 2285,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "HOJA CALAR BREMEN BOSCH 5371 x 5u, metal",
+    "cod_art": "0487",
+    "precio_lista": 2285,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "HOJA CALAR BREMEN BOSCH 5372 x 5u, met/no ferr.",
+    "cod_art": "0488",
+    "precio_lista": 2400,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "HOJA CALAR BREMEN BOSCH 5373 x 5u, madera",
+    "cod_art": "0489",
+    "precio_lista": 1355,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "HOJA CALAR BREMEN BOSCH 5374 x 5u, madera",
+    "cod_art": "0490",
+    "precio_lista": 1415,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  },
+  {
+    "marca": "BREMEN",
+    "desc": "HOJA CALAR BREMEN UNIV. 5357 x 5u, madera",
+    "cod_art": "0491",
+    "precio_lista": 1735,
+    "": "",
+    "min_cant_venta": 1,
+    "ultimo_cambio_precio": 44885
+  }]
